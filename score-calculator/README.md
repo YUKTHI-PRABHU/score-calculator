@@ -1,4 +1,4 @@
-containing the calculated wellness scores.
+This project calculates a daily wellness score (0–100) using sleep hours, steps walked, and mood rating to help track and improve overall health.
 
 ---
 
