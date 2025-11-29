@@ -17,10 +17,3 @@ This project calculates a daily wellness score (0–100) using sleep hours, step
 To track health trends using daily routine data and represent well-being with a single easy-to-understand score.
 
 ---
-
-## Future Improvements (Optional)
-- Add water intake, workout duration, stress score
-- Visualize weekly or monthly wellness trends
-- Deploy as a mobile app or dashboard
-
----
