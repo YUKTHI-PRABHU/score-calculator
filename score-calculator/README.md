@@ -24,5 +24,3 @@ To track health trends using daily routine data and represent well-being with a 
 - Deploy as a mobile app or dashboard
 
 ---
-
-Feel free to modify and extend the project! 🚀
